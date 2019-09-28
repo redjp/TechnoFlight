@@ -1,0 +1,23 @@
+.vscode/
+obj/
+Temp/
+Library/
+WebGL/
+
+*.csproj
+*.sln
+
+Assets/NCMB/*
+Assets/naichilab/*
+Assets/EZ Camera Shake/*
+Assets/TextMesh Pro/*
+
+Assets/Plugins/Android/*
+Assets/Plugins/iOS/*
+Assets/Plugins/LeanTween/*
+
+**/Audio/**/*.ogg
+**/Font/*.asset
+**/Materials/*.mat
+**/Materials/*.png
+**/Models/*.mesh
